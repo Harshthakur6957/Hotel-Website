@@ -1,0 +1,1 @@
+A fully responsive and interactive Hotel Management Website built using **HTML, CSS, and JavaScript**. This project simulates core hotel booking and management functionalities such as room browsing, booking, services, gallery, and contact forms. Designed with clean UI/UX principles for an engaging user experience.
